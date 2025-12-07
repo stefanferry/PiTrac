@@ -62,7 +62,7 @@ Tools:
 ##  Eyeball Assembly
 
 Tools:
-- 3 mm Allen key for ISO 7380 or 4 mm for ISO 4762
+- 3 mm Allen key for ISO 7380-2 or 4 mm for ISO 4762
 - Sandpaper (optional) 
 - Superglue (optional) 
 
@@ -72,7 +72,7 @@ Tools:
 | 2 | EyeScreen | 1 | - |
 | 3 | EyeScreen_Clamp | 1 | - |
 | 4 | ISO 4032 M5 nut| 4 | - |
-| 5 | ISO 7380 M5x20 mm screw| 4 | 20–25 mm; ISO 4762 optional |  
+| 5 | ISO 7380-2 M5x20 mm screw| 4 | 20–25 mm; ISO 4762 optional |  
 
 1. Remove support material.
 2. Smooth spherical surfaces if needed. 
@@ -81,7 +81,7 @@ Tools:
 5. Ensure correct orientation: notches must face upwards (toward the ribbon cable).
 6. Install the **M5 screws** and tighten only lightly.
 
-Note: ISO 7380 button-head screws look nicer and provide more surface contact; ISO 4762 offers better tool access.
+Note: ISO 7380-2 button-head screws look nicer and provide more surface contact; ISO 4762 offers better tool access.
 
 ---
 
@@ -93,13 +93,13 @@ Note: ISO 7380 button-head screws look nicer and provide more surface contact; I
 ##  Camera Stack Module Assembly
 
 Tools:
-- 3 mm Allen key for ISO 7380 or 4 mm for ISO 4762
+- 3 mm Allen key for ISO 7380-2 or 4 mm for ISO 4762
 
 | Number | Part | Qty | Notes |
 |--------|---------|---------|--------|
 | 1 | Eyeball Assembly | 1 | - |
 | 2 | Stack_Module | 1 | - |
-| 3 | ISO 7380 M5x10 mm screw| 2 | 10–15 mm; ISO 4762 optional | 
+| 3 | ISO 7380-2 M5x10 mm screw| 2 | 10–15 mm; ISO 4762 optional | 
 
  1. Remove support material.
  2. Pre-tap the lower **EyeScreen** holes with a screw.
@@ -110,13 +110,13 @@ Tools:
 ##  LED Stack Module Assembly
 
 Tools:
-- 3 mm Allen key for ISO 7380 or 4 mm for ISO 4762
+- 3 mm Allen key for ISO 7380-2 or 4 mm for ISO 4762
 
 | Number | Part | Qty | Notes |
 |--------|---------|---------|--------|
 | 1 | LED Assembly | 1 | - |
 | 2 | Stack_Module | 1 | - |
-| 3 | ISO 7380 M5x10 mm screw| 2 | 10–15 mm; ISO 4762 optional | 
+| 3 | ISO 7380-2 M5x10 mm screw| 2 | 10–15 mm; ISO 4762 optional | 
 
  1. Remove support material.
  2. Pre-tap the lower **EyeScreen** holes with a screw.
@@ -135,7 +135,7 @@ Tools:
 | 1 | Camera Stack Module Assembly | 2 | - |
 | 2 | LED Stack Module Assembly | 1 | - |
 | 3 | PSU Stack Module Assembly | 1 | - |
-| 4 | ISO 7380 M5x10-15 mm screw| 12 | 10–15 mm; ISO 4762 optional | 
+| 4 | ISO 7380-2 M5x10-15 mm screw| 12 | 10–15 mm; ISO 4762 optional | 
 | 5 | Spacer | 12 | not designed yet |
 
 **2nd on 1st stack**
@@ -164,7 +164,7 @@ WARNING: Use 10 mm screws only to ensure clearance above the **PSU**.
 ##  Cover
 
 Tools:
-- 3 mm Allen key for ISO 7380 or 4 mm for ISO 4762
+- 3 mm Allen key for ISO 7380-2 or 4 mm for ISO 4762
 - Saw for trimming M5 rod
 - File for deburring
 
@@ -175,6 +175,7 @@ Tools:
 | 3 | M5x318 mm rod | 4 | trim to 318 mm |
 | 4 | Spacer | 4 | not designed yet |
 | 5 | M5 washer | 4 | - |
+| 6 | ISO 7380-2 M5x15 mm screw| 4 | 10–15 mm; ISO 4762 optional | 
 
 **Stack_Module_Cover on 4th stack**
 1. Pre-tap the upper **Stack_Module** holes.
