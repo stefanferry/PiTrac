@@ -103,7 +103,7 @@ Tools:
 
  1. Remove support material.
  2. Pre-tap the lower **EyeScreen** holes with a screw.
- 3. Mount the **Eyeball Assembly** to the **Stack_Module**. Recommended front-plane distance: 25 mm (same left/right).
+ 3. Mount the **Eyeball Assembly** to the **Stack_Module**. Recommended front-plane distance: 30 mm (same left/right).
 
 ---
 
@@ -120,7 +120,7 @@ Tools:
 
  1. Remove support material.
  2. Pre-tap the lower **EyeScreen** holes with a screw.
- 3. Mount the **LED Assembly** to the **Stack_Module**. Recommended front-plane distance: xx mm (same left/right).
+ 3. Mount the **LED Assembly** to the **Stack_Module**. Recommended front-plane distance: 30 mm (same left/right).
 
 ---
 
