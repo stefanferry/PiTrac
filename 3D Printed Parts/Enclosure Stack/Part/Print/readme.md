@@ -51,9 +51,15 @@ Failure to follow these precautions can result in **fire, electric shock, or per
 | 10 | LinePower_Cover.stl | 1 | top face | none | normal - touching buildplate |
 | 11 | Stack_Module.stl | 3 | bottom face | none | none |
 | 12 | EyeScreen_Clamp.stl | 3 | inner plane face | none | none |
-| 13 | Cap (not finished) | 1 |  |  |  |
-| 14 | Logo (not finished) | 1 |  |  |  |
+| 13 | Stack_Module_Cover.stl | 1 | bottom face | brim | normal - everywhere |
+| 14 | Spacer.stl | 16 | lateral face | none | none |
 | 15 | IR-Filter_Clamp (not finished) | 1 |  |  |  |
+
+## 🧩 Legacy Parts List
+
+| Number | Part | Amount | Build Plate Face | Build Plate Adhesion | Support |
+|--------|-------------------------------|---------|----------------------|-------------------------|----------|
+| 1 | ConnectorBoardv0p2_Carrier.stl | 1 | plane face | none | normal - touching buildplate |
 
 ---
 
